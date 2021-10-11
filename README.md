@@ -1,2 +1,1 @@
-# Ai-code
-Ai code
+# AI-code-for-kajuwingu
